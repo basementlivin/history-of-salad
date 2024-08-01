@@ -9,7 +9,7 @@ html, body {
   height: 100%;
   font-size: 16px;
   box-sizing: border-box;
-  background-color: white;
+  background-color: #fffcea;
   font-family: "Unisoft77BetaWeb-Regular", apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 html::-webkit-scrollbar, body::-webkit-scrollbar {
@@ -49,18 +49,18 @@ main {
 main section {
   position: relative;
   width: 100%;
-  color: black;
+  color: #29272f;
   display: flex;
   flex-direction: column;
   justify-content: center;
 }
 
 ::selection {
-  background-color: black;
-  color: white;
+  background-color: #29272f;
+  color: #fffcea;
 }
 
 ::-moz-selection {
-  background-color: black;
-  color: white;
+  background-color: #29272f;
+  color: #fffcea;
 }

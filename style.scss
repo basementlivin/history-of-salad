@@ -4,6 +4,11 @@
   }
 
 $sans: 'Unisoft77BetaWeb-Regular', apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+$pepper: #29272f;
+$feta: #fffffb;
+$ranch: #fffcea;
+$arugula: #33952a;
+$balsamic: #c271f3;
 
 @mixin visually-hidden {
     position: absolute;
@@ -23,8 +28,9 @@ html, body {
     height: 100%;
     font-size: 16px;
     box-sizing: border-box;
-    background-color: white;
+    background-color: $ranch;
     font-family: $sans;
+    ;
     
     &::-webkit-scrollbar {
         display: none;
@@ -64,7 +70,7 @@ main {
     section {
         position: relative;
         width: 100%;
-        color: black;
+        color: $pepper;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -72,11 +78,11 @@ main {
 }
 
 ::selection {
-    background-color: black;
-    color: white;
+    background-color: $pepper;
+    color: $ranch;
 }
 
 ::-moz-selection {
-    background-color: black;
-    color: white;
+    background-color: $pepper;
+    color: $ranch;
 }
