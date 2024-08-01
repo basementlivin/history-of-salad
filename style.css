@@ -1,0 +1,66 @@
+@font-face {
+  font-family: "Unisoft77BetaWeb-Regular";
+  src: url("/assets/fonts/Unisoft77BetaWeb-Regular.woff2") format("woff2");
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: white;
+  font-family: "Unisoft77BetaWeb-Regular", apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+html::-webkit-scrollbar, body::-webkit-scrollbar {
+  display: none;
+}
+
+#smooth-content {
+  overflow: visible;
+  width: 100%;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img, svg {
+  user-select: none;
+}
+
+body {
+  min-height: 100vh;
+  min-height: 100svh;
+  position: relative;
+}
+
+main {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  backface-visibility: hidden;
+}
+main section {
+  position: relative;
+  width: 100%;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+::selection {
+  background-color: black;
+  color: white;
+}
+
+::-moz-selection {
+  background-color: black;
+  color: white;
+}
