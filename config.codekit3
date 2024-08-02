@@ -729,6 +729,21 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/assets\/scss\/wrappers.scss" : {
+      "aP" : 0,
+      "bl" : 0,
+      "co" : 0,
+      "dP" : 10,
+      "ec" : 1,
+      "ft" : 4,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/assets\/scss\/wrappers.css",
+      "oF" : 0,
+      "oS" : 0,
+      "pg" : 0,
+      "sct" : 0
+    },
     "\/assets\/social\/jellyworld--og.png" : {
       "ft" : 32768,
       "iS" : 35831,
