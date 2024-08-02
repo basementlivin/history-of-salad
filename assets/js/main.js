@@ -3,16 +3,14 @@ gsap.registerPlugin(ScrollSmoother, ScrollTrigger, ScrollToPlugin, TextPlugin, S
 import { initScrollSmoother } from "./modules/scroll-smoother";
 import { initScrollTrigger } from "./modules/scroll-trigger"; 
 import { initFadeIns } from "./modules/fade-in";
-// import { initMarquee } from "./modules/marquee";
-// import { initJellySwap } from "./modules/jellyswap";
+import { initLogoSlider } from "./modules/logo-slider";
 // import { initSocial } from "./modules/social";
 // import { initFormHandler } from "./modules/form-handler";
 
 initScrollSmoother();
 initScrollTrigger();
 initFadeIns();
-// initMarquee();
-// initJellySwap();
+initLogoSlider();
 // initSocial();
 // initFormHandler();
 

@@ -532,17 +532,6 @@
       "sC" : 3,
       "tS" : 1
     },
-    "\/assets\/js\/modules\/drag.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/assets\/js\/modules\/drag-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
     "\/assets\/js\/modules\/fade-in.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -565,24 +554,13 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/assets\/js\/modules\/jellyswap.js" : {
+    "\/assets\/js\/modules\/logo-slider.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/assets\/js\/modules\/jellyswap-min.js",
-      "oF" : 1,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/assets\/js\/modules\/marquee.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 1,
-      "oAP" : "\/assets\/js\/modules\/marquee-min.js",
+      "oAP" : "\/assets\/js\/modules\/logo-slider-min.js",
       "oF" : 1,
       "sC" : 3,
       "tS" : 0
@@ -620,17 +598,6 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/assets\/js\/vendor\/Draggable.min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/assets\/js\/vendor\/Draggable.min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
     "\/assets\/js\/vendor\/gsap.min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -638,17 +605,6 @@
       "mi" : 1,
       "oA" : 0,
       "oAP" : "\/assets\/js\/vendor\/gsap.min-min.js",
-      "oF" : 0,
-      "sC" : 3,
-      "tS" : 0
-    },
-    "\/assets\/js\/vendor\/InertiaPlugin.min.js" : {
-      "bF" : 0,
-      "ft" : 64,
-      "ma" : 0,
-      "mi" : 1,
-      "oA" : 0,
-      "oAP" : "\/assets\/js\/vendor\/InertiaPlugin.min-min.js",
       "oF" : 0,
       "sC" : 3,
       "tS" : 0
@@ -855,7 +811,7 @@
       "sct" : 0
     },
     "\/assets\/scss\/style.scss" : {
-      "aP" : 0,
+      "aP" : 1,
       "bl" : 0,
       "co" : 0,
       "dP" : 10,
@@ -898,6 +854,18 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/assets\/scss\/vendor\/swiper-bundle.css" : {
+      "aP" : 1,
+      "bl" : 0,
+      "ci" : 0,
+      "co" : 0,
+      "ft" : 16,
+      "ma" : 0,
+      "oA" : 1,
+      "oAP" : "\/assets\/scss\/vendor\/swiper-bundle-min.css",
+      "oF" : 1,
+      "pg" : 0
     },
     "\/assets\/scss\/wrappers.scss" : {
       "aP" : 0,
