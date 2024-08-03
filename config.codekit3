@@ -520,6 +520,17 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/ingredients\/arugula.webp" : {
+      "ft" : 8388608,
+      "iS" : 20486,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/arugula.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/ingredients\/asparagus.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -529,6 +540,17 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/assets\/ingredients\/asparagus.webp" : {
+      "ft" : 8388608,
+      "iS" : 17876,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/asparagus.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/assets\/ingredients\/avocado.svg" : {
       "ft" : 2097152,
@@ -540,6 +562,38 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/ingredients\/avocado.webp" : {
+      "ft" : 8388608,
+      "iS" : 16714,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/avocado.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/assets\/ingredients\/carrot.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/ingredients\/carrot.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/assets\/ingredients\/carrot.webp" : {
+      "ft" : 8388608,
+      "iS" : 19916,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/carrot.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/ingredients\/cucumber.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -549,6 +603,17 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/assets\/ingredients\/cucumber.webp" : {
+      "ft" : 8388608,
+      "iS" : 16816,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/cucumber.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/assets\/ingredients\/olive.svg" : {
       "ft" : 2097152,
@@ -560,6 +625,17 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/ingredients\/olive.webp" : {
+      "ft" : 8388608,
+      "iS" : 14556,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/olive.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/ingredients\/onion.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -569,6 +645,17 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/assets\/ingredients\/onion.webp" : {
+      "ft" : 8388608,
+      "iS" : 16464,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/onion.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/assets\/ingredients\/radish.svg" : {
       "ft" : 2097152,
@@ -580,6 +667,17 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/ingredients\/radish.webp" : {
+      "ft" : 8388608,
+      "iS" : 17130,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/radish.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/ingredients\/romaine.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -590,6 +688,17 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/ingredients\/romaine.webp" : {
+      "ft" : 8388608,
+      "iS" : 18852,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/romaine.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/ingredients\/spinach.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -599,6 +708,17 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/assets\/ingredients\/spinach.webp" : {
+      "ft" : 8388608,
+      "iS" : 16878,
+      "oA" : 0,
+      "oAP" : "\/assets\/ingredients\/spinach.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/assets\/js\/main-min.js" : {
       "bF" : 0,
@@ -612,7 +732,7 @@
       "tS" : 0
     },
     "\/assets\/js\/main.js" : {
-      "bF" : 4,
+      "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
@@ -620,7 +740,7 @@
       "oAP" : "\/assets\/js\/main-min.js",
       "oF" : 0,
       "sC" : 3,
-      "tS" : 1
+      "tS" : 0
     },
     "\/assets\/js\/modules\/fade-in.js" : {
       "bF" : 0,
@@ -682,9 +802,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/modules\/social-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
@@ -693,9 +813,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/gsap.min-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
@@ -704,9 +824,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/Observer.min-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
@@ -715,9 +835,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/ScrollSmoother.min-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
@@ -726,9 +846,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/ScrollToPlugin.min-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
@@ -737,9 +857,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/ScrollTrigger.min-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
@@ -748,9 +868,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/SplitText.min-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
@@ -759,9 +879,9 @@
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
-      "oA" : 0,
+      "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/TextPlugin.min-min.js",
-      "oF" : 0,
+      "oF" : 1,
       "sC" : 3,
       "tS" : 0
     },
