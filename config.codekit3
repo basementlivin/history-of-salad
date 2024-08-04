@@ -720,6 +720,26 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/assets\/ingredients\/veggies_01.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/ingredients\/veggies_01.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/assets\/ingredients\/veggies_02.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/ingredients\/veggies_02.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/js\/main-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -732,7 +752,7 @@
       "tS" : 0
     },
     "\/assets\/js\/main.js" : {
-      "bF" : 0,
+      "bF" : 4,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
@@ -740,7 +760,7 @@
       "oAP" : "\/assets\/js\/main-min.js",
       "oF" : 0,
       "sC" : 3,
-      "tS" : 0
+      "tS" : 1
     },
     "\/assets\/js\/modules\/fade-in.js" : {
       "bF" : 0,
@@ -771,6 +791,17 @@
       "mi" : 1,
       "oA" : 1,
       "oAP" : "\/assets\/js\/modules\/logo-slider-min.js",
+      "oF" : 1,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/assets\/js\/modules\/salad.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 1,
+      "oAP" : "\/assets\/js\/modules\/salad-min.js",
       "oF" : 1,
       "sC" : 3,
       "tS" : 0
@@ -816,6 +847,17 @@
       "oA" : 1,
       "oAP" : "\/assets\/js\/vendor\/gsap.min-min.js",
       "oF" : 1,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/assets\/js\/vendor\/MorphSVGPlugin.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/assets\/js\/vendor\/MorphSVGPlugin.min-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
