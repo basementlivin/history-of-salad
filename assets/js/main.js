@@ -2,13 +2,13 @@ gsap.registerPlugin(ScrollSmoother, ScrollTrigger, ScrollToPlugin, MorphSVGPlugi
 
 import { initScrollSmoother } from "./modules/scroll-smoother";
 import { initScrollTrigger } from "./modules/scroll-trigger"; 
-import { initSalad } from "./modules/salad";
+import { initSaladMorph } from "./modules/salad";
 import { initFadeIns } from "./modules/fade-in";
 import { initLogoSlider } from "./modules/logo-slider";
 
 initScrollSmoother();
 initScrollTrigger();
-initSalad();
+initSaladMorph();
 initFadeIns();
 initLogoSlider();
 

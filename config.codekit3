@@ -490,6 +490,17 @@
       "oAP" : "\/assets\/fonts\/Unisoft77BetaWeb-Regular.woff2",
       "oF" : 0
     },
+    "\/assets\/images\/computer-lab.webp" : {
+      "ft" : 8388608,
+      "iS" : 75824,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/computer-lab.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/images\/email.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -520,17 +531,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/ingredients\/arugula.webp" : {
-      "ft" : 8388608,
-      "iS" : 20486,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/arugula.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/assets\/ingredients\/asparagus.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -540,17 +540,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/assets\/ingredients\/asparagus.webp" : {
-      "ft" : 8388608,
-      "iS" : 17876,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/asparagus.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
     },
     "\/assets\/ingredients\/avocado.svg" : {
       "ft" : 2097152,
@@ -562,17 +551,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/ingredients\/avocado.webp" : {
-      "ft" : 8388608,
-      "iS" : 16714,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/avocado.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/assets\/ingredients\/carrot.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -582,17 +560,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/assets\/ingredients\/carrot.webp" : {
-      "ft" : 8388608,
-      "iS" : 19916,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/carrot.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
     },
     "\/assets\/ingredients\/cucumber.svg" : {
       "ft" : 2097152,
@@ -604,17 +571,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/ingredients\/cucumber.webp" : {
-      "ft" : 8388608,
-      "iS" : 16816,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/cucumber.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/assets\/ingredients\/olive.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -624,17 +580,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/assets\/ingredients\/olive.webp" : {
-      "ft" : 8388608,
-      "iS" : 14556,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/olive.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
     },
     "\/assets\/ingredients\/onion.svg" : {
       "ft" : 2097152,
@@ -646,17 +591,6 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/ingredients\/onion.webp" : {
-      "ft" : 8388608,
-      "iS" : 16464,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/onion.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
-    },
     "\/assets\/ingredients\/radish.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -666,17 +600,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/assets\/ingredients\/radish.webp" : {
-      "ft" : 8388608,
-      "iS" : 17130,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/radish.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
     },
     "\/assets\/ingredients\/romaine.svg" : {
       "ft" : 2097152,
@@ -688,16 +611,25 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/ingredients\/romaine.webp" : {
-      "ft" : 8388608,
-      "iS" : 18852,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/romaine.webp",
+    "\/assets\/ingredients\/salad-sculpture.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/ingredients\/salad-sculpture.svg",
       "oF" : 0,
-      "oIPL" : 0,
       "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/assets\/ingredients\/salad.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/ingredients\/salad.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
     },
     "\/assets\/ingredients\/spinach.svg" : {
       "ft" : 2097152,
@@ -708,17 +640,6 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
-    },
-    "\/assets\/ingredients\/spinach.webp" : {
-      "ft" : 8388608,
-      "iS" : 16878,
-      "oA" : 0,
-      "oAP" : "\/assets\/ingredients\/spinach.webp",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-default",
-      "rq" : 75
     },
     "\/assets\/ingredients\/veggies_01.svg" : {
       "ft" : 2097152,
@@ -795,13 +716,13 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/assets\/js\/modules\/salad.js" : {
+    "\/assets\/js\/modules\/salad-morph.js" : {
       "bF" : 0,
       "ft" : 64,
       "ma" : 0,
       "mi" : 1,
       "oA" : 1,
-      "oAP" : "\/assets\/js\/modules\/salad-min.js",
+      "oAP" : "\/assets\/js\/modules\/salad-morph-min.js",
       "oF" : 1,
       "sC" : 3,
       "tS" : 0
