@@ -349,9 +349,9 @@ main {
 }
 
 .intro {
+  height: 95vh;
   margin-bottom: 4px;
   border-top: 4px solid #29272f;
-  height: 95vh;
   width: 100%;
   display: flex;
   justify-content: center;
@@ -361,6 +361,7 @@ main {
 }
 @media (min-width: 1024px) {
   .intro {
+    max-height: 100vh;
     flex-direction: row;
     gap: 4px;
   }
@@ -380,14 +381,14 @@ main {
   border-radius: 0px;
   transition: border-radius 0.5s, width 0.5s, padding 0.5s;
 }
-.intro__copy:hover {
-  border-radius: 85px;
-  width: 80%;
-  padding: 0 6.5rem;
-}
 @media (min-width: 1024px) {
   .intro__copy {
     width: 50%;
+  }
+  .intro__copy:hover {
+    border-radius: 85px;
+    width: 80%;
+    padding: 0 6.5rem;
   }
 }
 .intro__copy .copy {
@@ -406,13 +407,13 @@ main {
   background-color: #33952a;
   transition: border-radius 0.5s, width 0.5s;
 }
-.intro__image:hover {
-  border-radius: 85px;
-  width: 80%;
-}
 @media (min-width: 1024px) {
   .intro__image {
     width: 50%;
+  }
+  .intro__image:hover {
+    border-radius: 85px;
+    width: 80%;
   }
 }
 .intro__image img {

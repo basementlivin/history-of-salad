@@ -1,7 +1,7 @@
 .intro {
+    height: 95vh;
     margin-bottom: 4px;
     border-top: 4px solid $pepper;
-    height: 95vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -9,6 +9,7 @@
     flex-direction: column-reverse;
     background-color: $carrot;
     @include breakpoint($laptop) {
+        max-height: 100vh;
         flex-direction: row;
         gap: 4px;
     }
@@ -28,14 +29,13 @@
         border-radius: 0px;
         transition: border-radius 0.5s, width 0.5s, padding 0.5s;
         
-        &:hover {
-            border-radius: 85px;
-            width: 80%;
-            padding: 0 6.5rem;
-        }
         @include breakpoint($laptop) {
             width: 50%;
-
+            &:hover {
+                border-radius: 85px;
+                width: 80%;
+                padding: 0 6.5rem;
+            }
         }
 
         .copy {
@@ -56,13 +56,13 @@
         background-color: $arugula;
         transition: border-radius 0.5s, width 0.5s;
         
-        &:hover {
-            border-radius: 85px;
-            width: 80%;
-        }
         
         @include breakpoint($laptop) {
             width: 50%;
+            &:hover {
+                border-radius: 85px;
+                width: 80%;
+            }
         }
 
         img {
