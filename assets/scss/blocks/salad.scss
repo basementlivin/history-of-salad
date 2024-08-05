@@ -20,6 +20,62 @@
         margin: 0;
     }
 
+    // .ingredients {
+    //     position: absolute;
+    //     top: 0;
+    //     left: 0;
+    //     z-index: -1;
+    //     width: 100%;
+    //     height: 100%;
+
+    //     display: grid;
+    //     grid-template-columns: repeat(12, 1fr);
+    //     grid-template-rows: repeat(8, 1fr);
+
+    //     svg {
+    //         display: block;
+    //         width: 100%;
+    //         height: auto;
+    //         color: $pepper;
+    //         stroke-width: 1px;
+    //     }
+
+    //     #arugula {
+    //         grid-column: 1 / span 8;
+    //         grid-row: 1 / span 4;
+    //     }
+
+    //     #asparagus {
+    //         grid-column: 5 / span 4;
+    //         grid-row: 1 / span 4;
+    //     }
+
+    //     #avocado {
+    //         grid-column: 9 / span 4;
+    //         grid-row: 1 / span 4;
+    //     }
+
+    //     #carrot {
+    //         grid-column: 1 / span 4;
+    //         grid-row: 5 / span 4;
+    //     }
+
+    //     #cucumber {
+    //         grid-column: 5 / span 4;
+    //         grid-row: 5 / span 4;
+    //     }
+
+    //     #olive {
+    //         grid-column: 9 / span 4;
+    //         grid-row: 5 / span 4;
+    //     }
+
+    //     #spinach {
+    //         grid-column: 1 / span 4;
+    //         grid-row: 1 / span 4;
+    //     }
+    // }
+
     .image {
         position: absolute;
         top: 0;
@@ -29,10 +85,22 @@
         display: flex;
         justify-content: center;
         align-items: center;
+
         svg {
             display: block;
             width: 80%;
             height: auto;
+            
+            #avocado, #cucumber, #spinach, #carrot, #arugula, #onion, #asparagus {
+                visibility: hidden;
+            }
+        
+            // Optionally, you can set the first path to be visible initially
+            #avocado {
+                visibility: visible;
+            }
+            
+            
         }
     }
   }

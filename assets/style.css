@@ -347,6 +347,12 @@ main {
   width: 80%;
   height: auto;
 }
+.salad .image svg #avocado, .salad .image svg #cucumber, .salad .image svg #spinach, .salad .image svg #carrot, .salad .image svg #arugula, .salad .image svg #onion, .salad .image svg #asparagus {
+  visibility: hidden;
+}
+.salad .image svg #avocado {
+  visibility: visible;
+}
 
 .intro {
   height: 95vh;
