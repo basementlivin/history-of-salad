@@ -312,46 +312,42 @@ main {
 }
 
 .salad {
+  position: relative;
   min-height: 100vh;
+  max-height: 100vh;
   height: 100%;
   width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas: "ingredients" "ingredients" "title";
   overflow: hidden;
-  position: relative;
 }
-.salad .title {
-  position: absolute;
-  width: 100%;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+.salad__title {
+  justify-self: end;
+  padding-top: 36rem;
+  grid-area: title;
+  align-self: end;
+  position: relative;
   z-index: 1;
   text-align: center;
   margin: 0;
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
-.salad .image {
-  position: absolute;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.salad .image svg {
+.salad__ingredients {
+  grid-area: ingredients;
+  align-self: center;
   display: block;
-  width: 80%;
-  height: auto;
+  width: 90%;
 }
-.salad .image svg #avocado, .salad .image svg #cucumber, .salad .image svg #spinach, .salad .image svg #carrot, .salad .image svg #arugula, .salad .image svg #onion, .salad .image svg #asparagus {
+@media (min-width: 1024px) {
+  .salad__ingredients {
+    width: 88%;
+  }
+}
+.salad__ingredients #avocado, .salad__ingredients #cucumber, .salad__ingredients #spinach, .salad__ingredients #carrot, .salad__ingredients #arugula, .salad__ingredients #onion, .salad__ingredients #asparagus {
   visibility: hidden;
-}
-.salad .image svg #avocado {
-  visibility: visible;
 }
 
 .intro {

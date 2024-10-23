@@ -1,107 +1,44 @@
 .salad {
+    position: relative;
     min-height: 100vh;
+    max-height: 100vh;
     height: 100%;
     width: 100%;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, 1fr);
+    grid-template-areas: 
+        "ingredients"
+        "ingredients"
+        "title";
     overflow: hidden;
-    position: relative;
-
-    .title {
-        position: absolute;
-        width: 100%;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+        
+    &__title {
+        justify-self: end;
+        padding-top: 36rem;
+        grid-area: title;
+        align-self: end;
+        position: relative;
         z-index: 1;
         text-align: center;
         margin: 0;
+        padding-left: 3rem;
+        padding-right: 3rem;
     }
 
-    // .ingredients {
-    //     position: absolute;
-    //     top: 0;
-    //     left: 0;
-    //     z-index: -1;
-    //     width: 100%;
-    //     height: 100%;
+    &__ingredients {
+        grid-area: ingredients;
+        align-self: center;
 
-    //     display: grid;
-    //     grid-template-columns: repeat(12, 1fr);
-    //     grid-template-rows: repeat(8, 1fr);
+        display: block;
+        width: 90%;
 
-    //     svg {
-    //         display: block;
-    //         width: 100%;
-    //         height: auto;
-    //         color: $pepper;
-    //         stroke-width: 1px;
-    //     }
+        @include breakpoint($laptop) {
+            width: 88%;
+        }
 
-    //     #arugula {
-    //         grid-column: 1 / span 8;
-    //         grid-row: 1 / span 4;
-    //     }
-
-    //     #asparagus {
-    //         grid-column: 5 / span 4;
-    //         grid-row: 1 / span 4;
-    //     }
-
-    //     #avocado {
-    //         grid-column: 9 / span 4;
-    //         grid-row: 1 / span 4;
-    //     }
-
-    //     #carrot {
-    //         grid-column: 1 / span 4;
-    //         grid-row: 5 / span 4;
-    //     }
-
-    //     #cucumber {
-    //         grid-column: 5 / span 4;
-    //         grid-row: 5 / span 4;
-    //     }
-
-    //     #olive {
-    //         grid-column: 9 / span 4;
-    //         grid-row: 5 / span 4;
-    //     }
-
-    //     #spinach {
-    //         grid-column: 1 / span 4;
-    //         grid-row: 1 / span 4;
-    //     }
-    // }
-
-    .image {
-        position: absolute;
-        top: 0;
-        left: 0;
-        z-index: -1;
-        width: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-
-        svg {
-            display: block;
-            width: 80%;
-            height: auto;
-            
-            #avocado, #cucumber, #spinach, #carrot, #arugula, #onion, #asparagus {
-                visibility: hidden;
-            }
-        
-            // Optionally, you can set the first path to be visible initially
-            #avocado {
-                visibility: visible;
-            }
-            
-            
+        #avocado, #cucumber, #spinach, #carrot, #arugula, #onion, #asparagus {
+            visibility: hidden;
         }
     }
-  }
-  
+}
