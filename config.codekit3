@@ -1065,32 +1065,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/assets\/social\/jellyworld--og.png" : {
-      "ft" : 32768,
-      "iS" : 35831,
-      "oA" : 0,
-      "oAP" : "\/assets\/social\/jellyworld--og.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
-    "\/assets\/social\/jellyworld--twitter.png" : {
-      "ft" : 32768,
-      "iS" : 35833,
-      "oA" : 0,
-      "oAP" : "\/assets\/social\/jellyworld--twitter.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 90,
-      "rq" : 75
-    },
     "\/assets\/style.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -1111,6 +1085,17 @@
       "oAP" : "\/build\/assets\/fonts\/Unisoft77BetaWeb-Regular.woff2",
       "oF" : 0
     },
+    "\/build\/assets\/images\/computer-lab.webp" : {
+      "ft" : 8388608,
+      "iS" : 75824,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/images\/computer-lab.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/build\/assets\/js\/main-min.js" : {
       "bF" : 0,
       "ft" : 64,
@@ -1130,6 +1115,17 @@
       "oA" : 1,
       "oAP" : "\/build\/assets\/js\/vendor\/gsap.min-min.js",
       "oF" : 1,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/build\/assets\/js\/vendor\/MorphSVGPlugin.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/js\/vendor\/MorphSVGPlugin.min-min.js",
+      "oF" : 0,
       "sC" : 3,
       "tS" : 0
     },
