@@ -1117,6 +1117,17 @@
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
+    "\/build\/assets\/images\/keyboard.webp" : {
+      "ft" : 8388608,
+      "iS" : 110902,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/images\/keyboard.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/build\/assets\/js\/main-min.js" : {
       "bF" : 0,
       "ft" : 64,
