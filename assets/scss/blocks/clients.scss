@@ -1,5 +1,5 @@
 .clients {
-    padding: 0 0 6rem 0;
+    padding: 0;
     position: relative;
     width: 100%;
 
@@ -26,9 +26,11 @@
                     flex-direction: column;
                     justify-content: center;
                     align-items: center;
+                    width: auto;
+                    height: 100%;
                     
                     .logo {
-                        height: 65px;
+                        height: 75px;
 
                         @include breakpoint($laptop) {
                             height: 100px;

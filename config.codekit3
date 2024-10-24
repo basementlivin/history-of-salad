@@ -511,6 +511,16 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/assets\/images\/HOS-wordmark.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/assets\/images\/HOS-wordmark.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/assets\/images\/instagram.svg" : {
       "ft" : 2097152,
       "miP" : 0,
@@ -520,6 +530,17 @@
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
+    },
+    "\/assets\/images\/keyboard.webp" : {
+      "ft" : 8388608,
+      "iS" : 110902,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/keyboard.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
     },
     "\/assets\/ingredients\/arugula.svg" : {
       "ft" : 2097152,

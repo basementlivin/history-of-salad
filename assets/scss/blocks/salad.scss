@@ -1,9 +1,11 @@
 .salad {
     position: relative;
-    min-height: 100vh;
-    max-height: 100vh;
-    height: 100%;
-    width: 100%;
+    // min-height: 100vh;
+    // max-height: 100vh;
+    // height: 100%;
+    // width: 100%;
+    // display: flex;
+    // flex-direction: row;
     display: grid;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(3, 1fr);
@@ -14,10 +16,10 @@
     overflow: hidden;
         
     &__title {
-        justify-self: end;
-        padding-top: 36rem;
-        grid-area: title;
-        align-self: end;
+        // justify-self: end;
+        // padding-top: 36rem;
+        // grid-area: title;
+        // align-self: end;
         position: relative;
         z-index: 1;
         text-align: center;
@@ -27,8 +29,8 @@
     }
 
     &__ingredients {
-        grid-area: ingredients;
-        align-self: center;
+        // grid-area: ingredients;
+        // align-self: center;
 
         display: block;
         width: 90%;
